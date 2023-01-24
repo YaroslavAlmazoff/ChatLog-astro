@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ChatLog AEP</string>
+    <string name="app_description">Календарь Астрономических событий</string>
+    <string-array name="technology_list">
+        <item>C</item>
+        <item>C++</item>
+        <item>Java</item>
+        <item>.Net</item>
+        <item>Kotlin</item>
+        <item>Ruby</item>
+        <item>Rails</item>
+        <item>Python</item>
+        <item>Java Script</item>
+        <item>Php</item>
+        <item>Ajax</item>
+        <item>Perl</item>
+        <item>Hadoop</item>
+    </string-array>
+</resources>
